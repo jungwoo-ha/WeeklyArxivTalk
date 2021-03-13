@@ -11,6 +11,10 @@
 * 방송시작 전까지 매주별로 Issue 생성하고 reply로 본인 관심 논문을 추가하는 형태
 * 지식보다는 만담!!! 가볍게 재미있게 소개해주실 분들은 reply에 논문 링크와 한줄 요약(혹은 대표그림 스샷) 올리고 방송에서 손들어 주시면 됩니다.
 
+### 지난회차
+[20210314](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/2)
+[20210307](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/1)
+
 ### Disclaimer
 * 여기의 활동은 제 소속과 아무런 상관 없이 연구자로서 공부 + 릴레이션을 위해 진행하는 방입니다.
 * 그럼에도 불구하고 관심있으신 분은 clova-jobs@navercorp.com or naverai@navercorp.com 으로
