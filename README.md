@@ -12,6 +12,7 @@
 * 지식보다는 만담!!! 가볍게 재미있게 소개해주실 분들은 reply에 논문 링크와 한줄 요약(혹은 대표그림 스샷) 올리고 방송에서 손들어 주시면 됩니다.
 
 ### 지난회차
+* [20210411](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/5)
 * [20210404](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/4)
 * [20210328](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/3)
 * [20210314](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/2)
