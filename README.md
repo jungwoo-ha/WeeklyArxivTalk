@@ -7,11 +7,12 @@
 
 ### 운영방법
 * 매주 일요일 밤10시 ~ 11시
-* 정규 모더레이터: 하정우, 박성준, 문지형, 신재민, 이진원, 이준형, 전종홍 (Issue에 댓글로 논문 소개해주시는 분들은 바로 moderator 초청 드립니다.)
+* 정규 모더레이터: 하정우, 박성준, 문지형, 신재민, 이진원, 이준형, 전종홍, 박진영, 이정현 (Issue에 댓글로 논문 소개해주시는 분들은 바로 moderator 초청 드립니다.)
 * 방송시작 전까지 매주별로 Issue 생성하고 reply로 본인 관심 논문을 추가하는 형태
 * 지식보다는 만담!!! 가볍게 재미있게 소개해주실 분들은 reply에 논문 링크와 한줄 요약(혹은 대표그림 스샷) 올리고 방송에서 손들어 주시면 됩니다.
 
 ### 지난회차
+* [20210425](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/7)
 * [20210418](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/6)
 * [20210411](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/5)
 * [20210404](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/4)
