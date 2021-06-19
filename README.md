@@ -29,6 +29,9 @@
 * [20210314](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/2)
 * [20210307](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/1)
 
+### Special Thanks
+* 항상 내부적으로 중요한 논문 공유 해주시는 모든 NAVER AI Lab 및 CLOVA 연구원분들께 감사드립니다.
+
 ### Disclaimer
 * 여기의 활동은 제 소속과 아무런 상관 없이 연구자로서 공부 + 릴레이션을 위해 진행하는 방입니다.
 * 그럼에도 불구하고 관심있으신 분은 clova-jobs@navercorp.com or naverai@navercorp.com 으로
