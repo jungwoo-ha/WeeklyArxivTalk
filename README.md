@@ -12,25 +12,26 @@
 * 지식보다는 만담!!! 가볍게 재미있게 소개해주실 분들은 reply에 논문 링크와 한줄 요약(혹은 대표그림 스샷) 올리고 방송에서 손들어 주시면 됩니다.
 * Alumni & special thanks: 문지형, 박성준, 조재민, 김원재, 최윤제, 신수용
 
-### 금주: [20210711](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/16)
+### 금주: [ep17:20210718](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/17)
 
 
 ### 지난회차 
-* [20210704](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/15)
-* [20210620](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/14)
-* [20210613](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/13)
-* [20210606](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/12)
-* [20210530](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/11)
-* [20210523](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/10)
-* [20210509](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/9)
-* [20210502](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/8)
-* [20210425](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/7)
-* [20210418](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/6)
-* [20210411](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/5)
-* [20210404](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/4)
-* [20210328](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/3)
-* [20210314](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/2)
-* [20210307](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/1)
+* [ep16:20210711](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/16)
+* [ep15:20210704](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/15)
+* [ep14:20210620](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/14)
+* [ep13:20210613](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/13)
+* [ep12:20210606](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/12)
+* [ep11:20210530](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/11)
+* [ep10:20210523](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/10)
+* [ep9:20210509](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/9)
+* [ep8:20210502](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/8)
+* [ep7:20210425](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/7)
+* [ep6:20210418](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/6)
+* [ep5:20210411](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/5)
+* [ep4:20210404](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/4)
+* [ep3:20210328](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/3)
+* [ep2:20210314](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/2)
+* [ep1:20210307](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/1)
 
 ### Special Thanks
 * 항상 내부적으로 중요한 논문 공유 해주시는 모든 NAVER AI Lab 및 CLOVA 연구원분들께 감사드립니다.
