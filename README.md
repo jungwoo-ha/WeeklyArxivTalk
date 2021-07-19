@@ -12,7 +12,7 @@
 * 지식보다는 만담!!! 가볍게 재미있게 소개해주실 분들은 reply에 논문 링크와 한줄 요약(혹은 대표그림 스샷) 올리고 방송에서 손들어 주시면 됩니다.
 * Alumni & special thanks: 문지형, 박성준, 조재민, 김원재, 최윤제, 신수용
 
-### 금주: [ep18:20210718](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/18)
+### 금주: [ep18:20210725](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/18)
 
 
 ### 지난회차 
