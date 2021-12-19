@@ -13,10 +13,11 @@
 * Alumni & special thanks: 문지형, 박성준, 조재민, 김원재, 최윤제, 신수용, 박진영 
 
 ### 금주: [이번주 클럽하우스 링크]()
-* [ep33:20211212](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/33)
+* [ep34:20211219](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/34)
 
 
 ### 지난회차 
+* [ep33:20211212](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/33)
 * [ep32:20211205](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/32)
 * [ep31:20211128](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/31)
 * [ep30:20211121](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/30)
