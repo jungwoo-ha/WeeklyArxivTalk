@@ -44,13 +44,21 @@
 * [ep10:20210523](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/10)
 * [ep9:20210509](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/9)
 * [ep8:20210502](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/8)
+  - 대표논문: [Zero-infinity](https://www.microsoft.com/en-us/research/blog/zero-infinity-and-deepspeed-unlocking-unprecedented-model-scale-for-deep-learning-training/) 
 * [ep7:20210425](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/7)
+  - 대표논문: [VideoGPT](https://arxiv.org/abs/2104.10157), [VATT](https://arxiv.org/abs/2104.11178), [Timnit Gebru Paper](https://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) 
 * [ep6:20210418](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/6)
+  - 대표논문: [GANCraft](https://arxiv.org/abs/2104.07659)  
 * [ep5:20210411](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/5)
+  - 대표논문: [SpeechStew](https://arxiv.org/abs/2104.02133), [RepVGG](https://arxiv.org/abs/2101.03697) 
 * [ep4:20210404](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/4)
+  - 대표논문: [EfficientNet_V2](https://arxiv.org/abs/2104.00298), [ViViT](https://arxiv.org/abs/2103.15691) 
 * [ep3:20210328](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/3)
+  - 대표논문: [SwinTransformer](https://arxiv.org/abs/2103.14030)  
 * [ep2:20210314](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/2)
+  - 대표논문: [SEER](https://arxiv.org/abs/2103.01988), [M6](https://arxiv.org/abs/2103.00823), [Multimodal Neuron](https://openai.com/blog/multimodal-neurons/) 
 * [ep1:20210307](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/1)
+  - 대표논문: [WiT](https://arxiv.org/abs/2103.01913), [Perceiver](https://arxiv.org/abs/2103.03206)  
 
 ### Special Thanks
 * 항상 내부적으로 중요한 논문 공유 해주시는 모든 NAVER AI Lab 및 CLOVA 연구원분들께 감사드립니다.
