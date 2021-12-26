@@ -18,13 +18,13 @@
 
 ### 지난회차 
 * [ep34:20211219](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/34)
-* [ep33:20211212](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/33)
-* [ep32:20211205](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/32)
-* [ep31:20211128](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/31)
-* [ep30:20211121](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/30)
-* [ep29:20211107](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/29)
-* [ep28:20211030](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/28): 
-* [ep27:20211017](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/27): [P-tuning V2](https://arxiv.org/abs/2110.07602), [NormFormer](https://arxiv.org/abs/2110.09456), [OpenAI Math Solver](https://arxiv.org/abs/2110.14168)
+* [ep33:20211212](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/33): [Gopher](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf), [RETRO](https://storage.googleapis.com/deepmind-media/research/language-research/Improving%20language%20models%20by%20retrieving.pdf), [PoE-GAN](https://arxiv.org/abs/2112.05130v1)
+* [ep32:20211205](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/32): [BEVT](https://arxiv.org/abs/2112.01529), [Uni-Perceiver](https://arxiv.org/abs/2112.01522v1), 
+* [ep31:20211128](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/31): [NUWA](https://arxiv.org/abs/2111.12417), [Florence](https://arxiv.org/abs/2111.11432),
+* [ep30:20211121](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/30): [MAE](https://arxiv.org/abs/2111.06377), [Swin V2](https://arxiv.org/abs/2111.09883), [XLS-R](https://arxiv.org/abs/2111.09296),  
+* [ep29:20211107](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/29): [AutoML Tabular](https://arxiv.org/abs/2111.02705), [State of AI Report 2021](https://www.stateof.ai/), 
+* [ep28:20211030](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/28): [P-tuning V2](https://arxiv.org/abs/2110.07602), [NormFormer](https://arxiv.org/abs/2110.09456), [OpenAI Math Solver](https://arxiv.org/abs/2110.14168)
+* [ep27:20211017](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/27): [ByteTrack](https://arxiv.org/abs/2110.06864), [ResNet strikes back](https://arxiv.org/abs/2110.00476), [K-Wav2vec 2.0](https://arxiv.org/abs/2110.05172)
 * [ep26:20211010](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/26): [StyleNeRF](https://openreview.net/forum?id=iUuzzTMUw9K), 
 * [ep25:20210926](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/25): [OpenAI Book summary](https://arxiv.org/abs/2109.10862), [HyperCLOVA](https://arxiv.org/abs/2109.04650), [Pix2seq](https://arxiv.org/abs/2109.10852v1)
 * [ep24:20210912](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/24): [Hugging face NLP library](https://arxiv.org/abs/2109.02846v1), [Textless NLP](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio)
