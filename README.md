@@ -23,12 +23,12 @@
 * [ep31:20211128](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/31)
 * [ep30:20211121](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/30)
 * [ep29:20211107](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/29)
-* [ep28:20211030](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/28)
-* [ep27:20211017](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/27)
-* [ep26:20211010](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/26)
-* [ep25:20210926](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/25)
-* [ep24:20210912](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/24)
-* [ep23:20210905](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/23)
+* [ep28:20211030](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/28): 
+* [ep27:20211017](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/27): [P-tuning V2](https://arxiv.org/abs/2110.07602), [NormFormer](https://arxiv.org/abs/2110.09456), [OpenAI Math Solver](https://arxiv.org/abs/2110.14168)
+* [ep26:20211010](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/26): [StyleNeRF](https://openreview.net/forum?id=iUuzzTMUw9K), 
+* [ep25:20210926](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/25): [OpenAI Book summary](https://arxiv.org/abs/2109.10862), [HyperCLOVA](https://arxiv.org/abs/2109.04650), [Pix2seq](https://arxiv.org/abs/2109.10852v1)
+* [ep24:20210912](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/24): [Hugging face NLP library](https://arxiv.org/abs/2109.02846v1), [Textless NLP](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio)
+* [ep23:20210905](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/23): [SimVLM](https://arxiv.org/abs/2108.10904), [ASR-GLUE](https://arxiv.org/abs/2108.13048v1), 
 * [ep22:20210829](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/22): [Foundation model](https://arxiv.org/abs/2108.07258)
 * [ep21:20210815](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/21): [Mobile-Former](https://arxiv.org/abs/2108.05895v1), [DEMix](https://arxiv.org/abs/2108.05036v1)
 * [ep20:20210808](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/20): [Perceiver IO](https://arxiv.org/abs/2107.14795), [AI Economist](https://arxiv.org/abs/2108.02755v1), 
