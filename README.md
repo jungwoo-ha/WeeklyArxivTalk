@@ -16,7 +16,7 @@
 * [ep35:20220109](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/35)
 
 
-### 지난회차 
+### 지난회차 + 회차별 주요 논문
 * [ep34:20211219](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/34)
 * [ep33:20211212](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/33): [Gopher](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf), [RETRO](https://storage.googleapis.com/deepmind-media/research/language-research/Improving%20language%20models%20by%20retrieving.pdf), [PoE-GAN](https://arxiv.org/abs/2112.05130v1)
 * [ep32:20211205](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/32): [BEVT](https://arxiv.org/abs/2112.01529), [Uni-Perceiver](https://arxiv.org/abs/2112.01522v1), 
