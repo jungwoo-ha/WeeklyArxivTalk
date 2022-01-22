@@ -7,15 +7,16 @@
 
 ### 운영방법
 * 매주 일요일 밤10시 ~ 11시
-* 정규 모더레이터: 하정우, 이진원, 이준형, 전종홍, 이정현, 이수정, 이경훈, 김영도, 김경민, 신재민(Issue에 댓글로 논문 소개해주시는 분들은 바로 moderator 초청 드립니다.)
+* 정규 모더레이터: 하정우, 이진원, 이준형, 전종홍, 이정현, 이수정, 이경훈, 김영도, 엄태웅 (Issue에 댓글로 논문 소개해주시는 분들은 바로 moderator 초청 드립니다.)
 * 방송시작 전까지 매주별로 Issue 생성하고 reply로 본인 관심 논문을 추가하는 형태
 * 지식보다는 만담!!! 가볍게 재미있게 소개해주실 분들은 reply에 논문 링크와 한줄 요약(혹은 대표그림 스샷) 올리고 방송에서 손들어 주시면 됩니다.
-* Alumni & special thanks: 문지형, 박성준, 조재민, 김원재, 최윤제, 신수용, 박진영 
+* Alumni & special thanks: 문지형, 박성준, 조재민, 김원재, 최윤제, 신수용, 박진영, 신재민, 김경민
 
-### 금주 : [ep36:20220116](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/36)
+### 금주 : [ep37:20220122](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/37)
 
 
 ### 지난회차 + 회차별 주요 논문
+* [ep36:20220116](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/36)
 * [ep35:20220109](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/35)
 * [ep34:20211219](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/34)
 * [ep33:20211212](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/33): [Gopher](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf), [RETRO](https://storage.googleapis.com/deepmind-media/research/language-research/Improving%20language%20models%20by%20retrieving.pdf), [PoE-GAN](https://arxiv.org/abs/2112.05130v1)
