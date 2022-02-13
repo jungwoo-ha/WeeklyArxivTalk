@@ -16,13 +16,13 @@
 
 
 ### 지난회차 + 회차별 주요 논문
-* [ep38:20220206](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/38)
-* [ep37:20220122](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/37)
-* [ep36:20220116](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/36)
-* [ep35:20220109](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/35)
+* [ep38:20220206](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/38): [다시듣기](https://www.clubhouse.com/room/xX6z7pd3?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-61562 )
+* [ep37:20220122](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/37): [다시듣기](https://www.clubhouse.com/room/M1OrygeN?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-61561 )
+* [ep36:20220116](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/36): [다시듣기](https://www.clubhouse.com/room/MKoaXpGW?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-61561 )
+* [ep35:20220109](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/35): [다시듣기](https://www.clubhouse.com/room/MwnJv2QA?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-61561 )
 * [ep34:20211219](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/34)
-* [ep33:20211212](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/33): [Gopher](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf), [RETRO](https://storage.googleapis.com/deepmind-media/research/language-research/Improving%20language%20models%20by%20retrieving.pdf), [PoE-GAN](https://arxiv.org/abs/2112.05130v1)
-* [ep32:20211205](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/32): [BEVT](https://arxiv.org/abs/2112.01529), [Uni-Perceiver](https://arxiv.org/abs/2112.01522v1), 
+* [ep33:20211212](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/33): [Gopher](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf), [RETRO](https://storage.googleapis.com/deepmind-media/research/language-research/Improving%20language%20models%20by%20retrieving.pdf), [PoE-GAN](https://arxiv.org/abs/2112.05130v1) [다시듣기](https://www.clubhouse.com/room/mav9W16q?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-61560 )
+* [ep32:20211205](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/32): [BEVT](https://arxiv.org/abs/2112.01529), [Uni-Perceiver](https://arxiv.org/abs/2112.01522v1), [다시듣기](https://www.clubhouse.com/room/PQ4d8y8m?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-61559) 
 * [ep31:20211128](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/31): [NUWA](https://arxiv.org/abs/2111.12417), [Florence](https://arxiv.org/abs/2111.11432),
 * [ep30:20211121](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/30): [MAE](https://arxiv.org/abs/2111.06377), [Swin V2](https://arxiv.org/abs/2111.09883), [XLS-R](https://arxiv.org/abs/2111.09296),  
 * [ep29:20211107](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/29): [AutoML Tabular](https://arxiv.org/abs/2111.02705), [State of AI Report 2021](https://www.stateof.ai/), 
