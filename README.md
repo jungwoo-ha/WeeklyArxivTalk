@@ -17,7 +17,7 @@
 
 
 ### 지난회차 + 회차별 주요 논문
-* [ep42:20220306](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/42)
+* [ep42:20220306](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/42) [다시듣기](https://www.clubhouse.com/room/myj5Xk2W?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-100831)
 * [ep41:20220227](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/41)
 * [ep40:20220220](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/40) [다시듣기]()
 * [ep39:20220213](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/39) [다시듣기](https://www.clubhouse.com/room/P0ALVvaN?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-62878)
