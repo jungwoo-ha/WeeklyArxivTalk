@@ -13,7 +13,7 @@
 * 다시듣기는 클럽하우스 설치 없이 브라우저로 청취 가능합니다!
 * Alumni & special thanks: 문지형, 박성준, 조재민, 김원재, 최윤제, 신수용, 박진영, 신재민, 김경민, 김비호, 이승현, 조한철
 
-### 금주 : [ep46:20220403](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/46) [듣기]()
+### 금주 : [ep46:20220403](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/46) [듣기](https://www.clubhouse.com/join/naver-ai-clova/VGpkEP1q/xqwjDNOZ?utm_medium=ch_invite&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-130894)
 
 
 ### 지난회차 + 회차별 주요 논문
