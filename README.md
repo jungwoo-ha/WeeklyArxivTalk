@@ -13,10 +13,11 @@
 * 다시듣기는 클럽하우스 설치 없이 브라우저로 청취 가능합니다!
 * Alumni & special thanks: 문지형, 박성준, 조재민, 김원재, 최윤제, 신수용, 박진영, 신재민, 김경민, 김비호, 이승현, 조한철
 
-### 금주 : [ep46:20220403](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/46) [듣기](https://www.clubhouse.com/join/naver-ai-clova/VGpkEP1q/xqwjDNOZ?utm_medium=ch_invite&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-130894)
+### 금주 : [ep47:20220410](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/47) [듣기]
 
 
 ### 지난회차 + 회차별 주요 논문
+* [ep46:20220403](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/46) [듣기](https://www.clubhouse.com/join/naver-ai-clova/VGpkEP1q/xqwjDNOZ?utm_medium=ch_invite&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-130894)
 * [ep45:20220327](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/45) 
 * [ep44:20220320](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/44) [듣기](https://www.clubhouse.com/join/naver-ai-clova/PMZwJeXB/MRy5qb9a?utm_medium=ch_invite&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-111143)
 * [ep43:20220313](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/43) [듣기](https://www.clubhouse.com/room/xVbJLn0Q?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-112138)
