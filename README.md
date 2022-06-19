@@ -11,16 +11,17 @@
 * 방송시작 전까지 매주별로 Issue 생성하고 reply로 본인 관심 논문을 추가하는 형태
 * 지식보다는 만담!!! 가볍게 재미있게 소개해주실 분들은 reply에 논문 링크와 한줄 요약(혹은 대표그림 스샷) 올리고 방송에서 손들어 주시면 됩니다.
 * 다시듣기는 클럽하우스 설치 없이 브라우저로 청취 가능합니다!
-* Alumni & special thanks: 문지형, 박성준, 조재민, 김원재, 최윤제, 신수용, 박진영, 신재민, 김경민, 김비호, 이승현, 조한철
+* Alumni & special thanks: 문지형, 박성준, 조재민, 김원재, 최윤제, 신수용, 박진영, 신재민, 김경민, 김비호, 이승현, 조한철, 권민기, 최승준
 
-### 금주 : [ep54:20220612](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/54) [듣기]
+### 금주 : [ep55:20220619](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/55) [듣기](https://www.clubhouse.com/join/naver-ai-clova/ORnfgYAY/Md8knbvo?utm_medium=ch_invite&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-243073)
 
 
 ### 지난회차 + 회차별 주요 논문
-* [ep53:20220529](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/53) [듣기]
-* [ep52:20220522](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/52) [듣기]
-* [ep51:20220515](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/51) [듣기]
-* [ep50:20220501](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/50) [다시듣기]
+* [ep54:20220612](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/54) [다시듣기](https://www.clubhouse.com/room/m7rY2D7N?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-243107)
+* [ep53:20220529](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/53) [다시듣기](https://www.clubhouse.com/room/MRDJRWj8?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-243106)
+* [ep52:20220522](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/52) [다시듣기](https://www.clubhouse.com/room/xLA8GNbe?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-243106)
+* [ep51:20220515](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/51) [다시듣기](https://www.clubhouse.com/room/myYjYDAa?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-243105)
+* [ep50:20220501](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/50) [다시듣기](https://www.clubhouse.com/room/M8ZezK08?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-243104)
 * [ep49:20220424](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/49) [다시듣기](https://www.clubhouse.com/room/MdrOBZN7?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-170964)
 * [ep48:20220417](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/48) [다시듣기](https://www.clubhouse.com/room/m26e0BVq?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-170958)
 * [ep47:20220410](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/47) [다시듣기](https://www.clubhouse.com/room/my65KOKW?utm_medium=ch_room_xerc&utm_campaign=msUMyG4TMV_TglY-rj7KVQ-170956)
