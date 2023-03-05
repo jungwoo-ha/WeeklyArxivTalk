@@ -17,10 +17,17 @@
 * Alumni & special thanks: 문지형, 박성준, 조재민, 김원재, 최윤제, 신수용, 박진영, 신재민, 김경민, 김비호, 이승현, 조한철, 권민기, 최승준
 
 ### 금주 : 
-* 깃허브: https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/73
+* 깃허브: [season2-ep8](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/74)
 * 줌 웨비나 주소 (선착순):
 
 ### 시즌 2 + 회차별 주요 논문
+* [S2ep7:](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/73)
+* [S2ep6:](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/72)
+* [S2ep5:](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/71)
+* [S2ep4:](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/70)
+* [S2ep3:](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/69)
+* [S2ep2:](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/68)
+* [S2ep1:](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/67)
 
 ### 시즌 1 + 회차별 주요 논문
 * [ep65:20220918](https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/66) [듣기]()
